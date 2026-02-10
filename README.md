@@ -47,7 +47,7 @@ This project made JavaScript feel more practical and visual.
 🔹 Live Demo
 
 👉 Live Project:
-(Add your GitHub Pages link here)
+(https://hooriashujaat098.github.io/analog-clock/)
 
 
 🔹 Why This Project
